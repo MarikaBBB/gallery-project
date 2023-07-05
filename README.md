@@ -1,3 +1,8 @@
+# Repository Transition
+
+This is a new repository created specifically for the Founders & Coders to submit application. It does not have any commit history because the project was previously stored in a single repository along with other projects. To access the full commit history and development progress, please refer to the https://github.com/MarikaBBB/MarikaBBB.github.io repository.
+
+
 # Gallery Project README
 
 This project is a gallery showcasing the projects I have been working on. Each project has a card with a title, an image, and a description. The gallery uses flexbox to arrange the cards on the page and resizes the cards based on screen width. The layout adapts to the gallery when the browser window resizes and displays the cards in a single column on mobile devices. Each card also has a clickable button that opens and closes the description text.
